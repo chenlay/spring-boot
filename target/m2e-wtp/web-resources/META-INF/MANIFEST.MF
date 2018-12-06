@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-demo Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.itcast
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
